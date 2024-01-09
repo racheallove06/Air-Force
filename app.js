@@ -64,7 +64,7 @@ const products = [
   },
   {
     id: 5,
-    title: "Hippie",
+    title: "Hippe",
     price: 99,
     colors: [
       {
